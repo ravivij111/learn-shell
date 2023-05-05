@@ -1,3 +1,3 @@
 ls -ls
-uname -uname
+uname -a
 yum list installed
