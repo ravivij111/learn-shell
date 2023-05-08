@@ -2,3 +2,4 @@
 # 2> : It redirects the error to the given file
 # &> : It redirects both output and error to the given file
 # >> : It append to the existing file
+# &>/dev/null : We dont see any output of the commands
