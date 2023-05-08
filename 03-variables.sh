@@ -3,6 +3,6 @@ name=DevOps
 
 #Print Variable
 echo $aecho $name
-Date=2023-04-18
-echo Today date is ${DATE}
+todayDate=$(date +%F)
+echo Today date is ${todayDate}
 
